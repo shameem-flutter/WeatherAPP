@@ -11,3 +11,8 @@ pubspec.lock
 # macOS or Windows
 .DS_Store
 Thumbs.db
+
+# IntelliJ/Android Studio files
+*.iml
+android/.kotlin/
+
